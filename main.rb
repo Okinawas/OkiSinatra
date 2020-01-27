@@ -3,6 +3,7 @@ require 'sinatra/reloader'
 
 get '/' do
   'how are you nakamatsu?'
+  'I dont know nakamatsu'
 end
 
 get '/path/to' do
